@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+mysql-connector-python
+textblob
+SpeechRecognition
+pydub
